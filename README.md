@@ -155,8 +155,10 @@ Niveau 9: Écologiste Ultime (96-100%) → 👑 Héros de la planète 🌍
 
 ## 🎬 Démonstration
 
-<video src="https://github. com/user-attachments/assets/3766caf4-ab77-4ed6-8324-f1ae7068f04f" controls width="100%">
-   
+
+
+<video src="https://github.com/user-attachments/assets/3766caf4-ab77-4ed6-8324-f1ae7068f04f" controls>
+  
 </video>
 
 ---
