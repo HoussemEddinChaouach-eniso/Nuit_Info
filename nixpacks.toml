@@ -1,0 +1,16 @@
+{
+  "name": "nird-village-builders",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "server": "npx tsx server/index.ts",
+    "build": "vite build",
+    "start": "npx tsx server/index.ts",
+    "preview": "vite preview"
+  }
+}
