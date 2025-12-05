@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Écologique](https://img. shields.io/badge/🌱_Écologique-28a745?style=for-the-badge)
-![RSE](https://img.shields.io/badge/RSE-Responsable-blue?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source-❤️-red?style=for-the-badge)
 
 **Transformez la migration vers Linux en un défi collectif et écologique !**
 
