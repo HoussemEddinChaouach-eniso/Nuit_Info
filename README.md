@@ -199,9 +199,8 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 
 ## 📞 Contact
 
-- 📧 Email : [votre-email@example.com]
-- 🐦 Twitter : [@votre-compte]
-- 💼 LinkedIn : [Votre Profil]
+- 📧 Email : chaouach.houssem29@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/houssem-eddin-chaouach-2042592a7/
 
 ---
 
